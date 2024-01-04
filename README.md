@@ -25,11 +25,11 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 owaisameerofficial@gmial.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://github.com/owaisameerofficial
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/owais-shah-91b929299/
 
 📷 Instagram : https://www.instagram.com/hammad2980/
  
