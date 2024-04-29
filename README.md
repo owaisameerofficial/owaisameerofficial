@@ -9,11 +9,10 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
 	
 👨‍💻 Lead NLP Developer at HandyHelps
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 NLP & VUI Consultant and Web Developer and App Developer 
 	
 💰 RISING TALENT at UPWORK ✅
 
@@ -31,7 +30,6 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/owais-shah-91b929299/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
  
 <h2>Tech Stack</h2>
 
